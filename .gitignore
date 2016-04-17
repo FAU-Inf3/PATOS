@@ -1,0 +1,6 @@
+*.swp
+bin/
+dep/
+obj/
+out/
+dump/
